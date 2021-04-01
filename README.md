@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![introduction](https://emareye.com/mricfiles/uploads/2017/05/Introduction-862x414-2-862x414-min-862x414.png)
 
 
@@ -17,3 +18,5 @@ My background in Project Management I graduated snice 2017 as Master of business
 | read02   | [read02](read02.md)    |
 
 
+=======
+>>>>>>> 9e5e7007781e2fdefab428ca4f3cb1a4bb83e8c6
