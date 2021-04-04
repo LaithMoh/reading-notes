@@ -13,3 +13,8 @@ Hiding from your weaknesses means you’ll never overcome them, i'm always ackno
 When i make a mistake or fall short of a goal, i haven’t failed; i’ve learned. This is my belief in life
 
 
+
+
+My name is Laith Abedalmuttaleb I’m 29yers old
+My background in Project Management I graduated snice 2017 as Master of business administration in project management from Malaysia as well my Bachelor was from Malaysia, it was an Architecture I graduated 2015, my experience was in management for almost 3years, I joined this course to improve my skill in IT development as well we can see how those days IT is important and I got the chance to have this course under full scholarship so I decided to not miss this chance.
+
